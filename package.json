@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@expo/vector-icons": "^10.0.0",
+    "@expo/vector-icons": "^10.2.0",
     "expo": "^37.0.0",
     "expo-font": "~8.1.0",
     "moment": "^2.25.0",
