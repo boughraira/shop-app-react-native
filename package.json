@@ -11,6 +11,7 @@
     "@expo/vector-icons": "^10.0.0",
     "expo": "^37.0.0",
     "expo-font": "~8.1.0",
+    "expo-linear-gradient": "^8.1.0",
     "moment": "^2.25.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
